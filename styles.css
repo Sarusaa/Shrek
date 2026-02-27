@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: url("640.webp")center/cover no-repeat;
+}
+ 
+ 
+@media (min-width: 640px) {
+    body {
+        background: url("1280.jpg") center/cover no-repeat;
+    }
+}
+ 
+ 
+@media (min-width: 1280px) {
+    body {
+        background: url("1920.jpg")center/cover no-repeat;
+    }
+}
+ 
+
+
+     
+   
+        
